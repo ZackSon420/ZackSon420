@@ -1,3 +1,4 @@
+![Welcome GIF](https://replicate.delivery/pbxt/OiyjBbEIIS51DxxbIJgtLLJcx9HdEiH6aHKJOW4FHusHO5tE/out-0.png)
 # Hey there, Welcome to My GitHub Profile! 👋
 
 ## I'm Rauf Saleem!
