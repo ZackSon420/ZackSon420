@@ -22,10 +22,6 @@ I'm a passionate developer with a love for creating, learning, and sharing. Here
 ### 🤝 Contributions & Collaborations
 I'm always open to collaborating on interesting projects and contributing to open-source. If you have an idea or need help with something, feel free to reach out!
 
-### 📫 How to reach me
-- **Email:** abdrauf3012@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/abdul-rauf-568959213/
-
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rauf-568959213/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ZackSon420/)
